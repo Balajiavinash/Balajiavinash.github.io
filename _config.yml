@@ -20,7 +20,7 @@ timezone:
 
 title: Balaji Avinash # the main title
 
-tagline: Cyber Security Student # it will display as the sub-title
+tagline: Jr Cyber Security # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -76,7 +76,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-# avatar: "https://drive.google.com/file/d/1OGyDX0JAsxZNBJiWDesm0d8bUN4tNbO7/view?usp=drive_link"
+ avatar: "https://drive.google.com/file/d/1OGyDX0JAsxZNBJiWDesm0d8bUN4tNbO7/view?usp=drive_link"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
